@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Haskell
+/haskell/HelloWorld
+/haskell/HelloWorld.hi
+/haskell/HelloWorld.o
